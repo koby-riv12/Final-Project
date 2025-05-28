@@ -33,6 +33,9 @@ An endless runner game inspired by the classic Chrome “Dino” game. Players m
 
 📂 Links
 
+
 🔗 GitHub Repository: https://github.com/koby-riv12/Final-Project
+
+
 🌐 Live Site on GitHub Pages: https://koby-riv12.github.io/Final-Project/
 
