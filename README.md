@@ -1,35 +1,33 @@
 # Dantrell R
-About Me
-My name is Dantrell Koby Rivera, and I’m currently a high school junior with a passion for computer science and technology. I began my programming journey with C++, which helped me understand the foundations of coding. Since then, I’ve expanded into web development, learning HTML, CSS, and JavaScript. I enjoy building interactive, visually engaging web applications, and I’m excited to continue developing my skills and working on more advanced projects in the future.
+👋 About Me
+Hi, I'm Dantrell R., a junior in high school with a growing passion for computer science and web development. I started my journey with C++, which gave me a strong foundation in programming logic. Over the past year, I’ve expanded into frontend technologies like HTML, CSS, and JavaScript. I enjoy building interactive web projects and continually pushing myself to learn new skills as I grow as a developer.
 
-Project Summary
-This portfolio represents the culmination of my work and learning throughout the school year. It serves as a showcase of the web development skills I've acquired and the projects I’ve created using HTML, CSS, and JavaScript. In building this site, I gained experience in creating responsive layouts, writing clean and maintainable code, and designing dynamic, user-friendly web interfaces. This project reflects my growth as a student developer and my ability to bring ideas to life through code.
+📚 Project Overview
+This portfolio project is the culmination of everything I’ve learned in computer science this school year. It features a collection of my favorite web-based projects, built using core web technologies. Throughout the process, I gained hands-on experience with responsive design, JavaScript interactivity, and structuring clean, readable code. Each project helped me improve my problem-solving skills and taught me how to bring creative ideas to life on the web.
 
-Portfolio Overview
-The final portfolio website includes the following features:
+🖥️ What's in My Portfolio?
+My portfolio website acts as a central hub for showcasing my best work. It includes:
 
-Responsive Layout: Optimized for viewing on various devices using responsive design techniques.
+An "About Me" section introducing who I am and what I’ve learned
 
-About Me Section: A brief introduction to who I am and my goals as a developer.
+Project descriptions and visuals for each featured project
 
-Project Gallery: A section dedicated to showcasing the JavaScript projects I’ve built, each with a description and preview.
+Links to live versions of each project for visitors to explore
 
-Interactive Elements: Functional features like games and tools, built with JavaScript, to demonstrate real-world application of my skills.
+🚀 Featured Projects
+🕒 Analog Clock
+A real-time analog clock built with HTML, CSS, and JavaScript. The clock displays the current hour, minute, and second using smooth CSS transformations and real-time updates from JavaScript.
 
-Deployed Online: The site is live and accessible via GitHub Pages for public viewing.
+➗ Calculator
+A simple, functional calculator that performs basic math operations like addition, subtraction, multiplication, and division. It features button input, live display updates, and a clean, user-friendly design.
 
-Featured Projects
-1. Analog Clock
-This is a real-time analog clock built using HTML, CSS, and JavaScript. It displays the current time with accurate hour, minute, and second hands. The clock dynamically updates every second, and it helped me learn about DOM manipulation and CSS transforms.
+🦖 Dino Run Game
+An endless runner game inspired by the classic Chrome “Dino” game. Players must jump over obstacles as the game speeds up. Built using JavaScript and event listeners, this project demonstrates my understanding of game logic and collision detection.
 
-2. Calculator
-A fully functional calculator capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator uses JavaScript for logic and real-time input handling. Building this project taught me how to manage user input and perform calculations within a clean interface.
-
-3. Dino Run Game
-An endless runner game inspired by the Chrome “Dino” game. This version features a custom character and background, adding a personal touch. The game uses JavaScript to handle key events, collision detection, and scoring. It helped me understand event-driven programming and basic game mechanics.
-
-
+📂 Links
+🔗 GitHub Repository: https://github.com/koby-riv12/Final-Project
+🌐 Live Site on GitHub Pages: https://koby-riv12.github.io/Final-Project/
 LINKS
-- [Github Repository](https://github.com/koby-riv12/Final-Project)
-- [Live Website](https://koby-riv12.github.io/Final-Project/)
+-[Github Repository](https://github.com/koby-riv12/Final-Project)
+-[Live Website](https://koby-riv12.github.io/Final-Project/)
 
