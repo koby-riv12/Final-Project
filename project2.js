@@ -1,15 +1,23 @@
 const display = document.getElementById("display");
 
-function appendToDisplay(input){
-    display.value += input;
+function appendToDisplay(input){	
+    display.value += input;	
 }
 
-function clearDisplay(){
-    display.value ="";
+function clearDisplay(){	
+    display.value =""; 	
 }
 
-function calculate(){
+function calculate(){	
     try {
-        // check the percentage operator
         if (display.value.includes('%')) {
-            display.value = display.value.replace(/%/g, '/100');  // Replace % with /100 for the percent expression
+            display.value = display.value.replace(/%/g, '/100');  
+        }
+      if (display.value.includes('^')) {	
+            display.value = display.value.replace(/\^/g, '**'); 
+        } 
+        display.value = eval(display.value);
+    } catch (error) {	
+        display.value = "Error";
+    }
+}
