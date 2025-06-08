@@ -1,56 +1,56 @@
 body{
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100hv;
+    margin: 0;	
+    display: flex;	
+    justify-content: center;	
+    align-items: center;		
+    height: 100hv;	
 }
 #calculator{
-    font-family: Arial, sans-serif;
-    background-color: rgb(6%, 5%, 10%);
-    border-radius: 15px;
-    max-width: 500px;
-    overflow: hidden;
+    font-family: Arial, sans-serif;	
+    background-color: rgb(6%, 5%, 10%);	
+    border-radius: 15px;	
+    max-width: 500px;		
+    overflow: hidden;		
 }
 #display{
-    width: 100%;
-    padding: 20px;
-    font-size: 5rem;
-    text-align: left;
-    border: none;
-    background-color: rgb(14%,15%,20%);
-    color: white;
+    width: 100%;	
+    padding: 20px;	
+    font-size: 5rem;	
+    text-align: left;	
+    border: none;	
+    background-color: rgb(14%,15%,20%); 
+    color: white;		
 }
 
 #keys{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    gap: 10px;
-    padding 25px;
+    display: grid;	
+    grid-template-columns: repeat(4,1fr);	
+    gap: 10px;	
+    padding 25px;	
 }
 button{
-    width: 90px;
-    height: 90px;
-    border-radius: 50px;
-    border: none;
-    background-color: grey;
-    color: white;
-    font-size: 3rem;
-    font-weight: bold;
-    cursor: pointer;
+    width: 90px;		
+    height: 90px;	
+    border-radius: 50px;	
+    border: none;		
+    background-color: grey;	
+    color: white;	 		
+    font-size: 3rem;		
+    font-weight: bold;		
+    cursor: pointer;		
 }
-button:hover{
+Button:hover{		
     background-color: rgb(30%,30%,40%);
 }
-button:active{
+Button:active{		
     background-color: rgb(40%,40%,50%);
 }
-.operator-btn{
-    background-color: rgb(100%,80%,20%);
+.operator-btn{		
+    background-color: rgb(100%,80%,20%);	
 }
-.operator-btn:hover{
+.operator-btn:hover{		
     background-color: rgb(100%,80%,60%);
 }
-.operator-btn:active{
+.operator-btn:active{		
     background-color: rgb(90%,80%,80%);
 }
